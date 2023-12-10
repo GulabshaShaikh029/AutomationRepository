@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-06T23:32:08 GMT-08:00" name="Default suite" finished-at="2023-12-06T23:32:35 GMT-08:00" duration-ms="27831">
+    <groups>
+    </groups>
+    <test started-at="2023-12-06T23:32:08 GMT-08:00" name="Default test" finished-at="2023-12-06T23:32:35 GMT-08:00" duration-ms="27831">
+      <class name="testNGAnnotation_Flags.ActiTimeDataProviderFlag">
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation_Flags.ActiTimeDataProviderFlag@428640fa]" started-at="2023-12-06T23:32:08 GMT-08:00" name="invalidLoginMethod" data-provider="TestData" finished-at="2023-12-06T23:32:15 GMT-08:00" duration-ms="6905" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad_min]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mana_ger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation_Flags.ActiTimeDataProviderFlag@428640fa]" started-at="2023-12-06T23:32:15 GMT-08:00" name="invalidLoginMethod" data-provider="TestData" finished-at="2023-12-06T23:32:19 GMT-08:00" duration-ms="4717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mana123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation_Flags.ActiTimeDataProviderFlag@428640fa]" started-at="2023-12-06T23:32:19 GMT-08:00" name="invalidLoginMethod" data-provider="TestData" finished-at="2023-12-06T23:32:26 GMT-08:00" duration-ms="6497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[456min]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456ger]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation_Flags.ActiTimeDataProviderFlag@428640fa]" started-at="2023-12-06T23:32:26 GMT-08:00" name="invalidLoginMethod" data-provider="TestData" finished-at="2023-12-06T23:32:31 GMT-08:00" duration-ms="4999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[min]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[add]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+        <test-method signature="invalidLoginMethod(java.lang.String,java.lang.String)[pri:0, instance:testNGAnnotation_Flags.ActiTimeDataProviderFlag@428640fa]" started-at="2023-12-06T23:32:31 GMT-08:00" name="invalidLoginMethod" data-provider="TestData" finished-at="2023-12-06T23:32:35 GMT-08:00" duration-ms="4539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginMethod -->
+      </class> <!-- testNGAnnotation_Flags.ActiTimeDataProviderFlag -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
